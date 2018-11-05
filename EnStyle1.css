@@ -1,0 +1,62 @@
+body{
+background: url('clouds.jpeg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+font-size: 30px;
+}
+section{
+margin: 20px 20px 20px 100px;
+}
+input{
+font-size: 20px;
+}
+h2{
+text-align: center;
+font-weight: bold;
+text-shadow: 3px 2px lightgrey;
+}
+
+#check1{
+width: 50px;
+}
+#check2{
+width: 50px;
+}
+#check3{
+width: 50px;
+}
+#congrat{
+width: 600px;
+
+}
+#done{
+display: none;
+align-items: center;
+}
+#task2{
+display: none;
+}
+#task3{
+display: none;
+}
+.red{
+font-size: 30px;
+color: red;
+}
+.small{
+font-size: 20px;
+}
+.radio{
+font-size: 20px;
+}
+
+.invisible{
+display:none;
+}
+.checked{
+background-image: url('greenok.png') no-repeat;
+height: 60px;
+}
+
